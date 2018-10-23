@@ -13,7 +13,7 @@ Disclaimer: This software is provided "as is" with no warranty expressed or impl
 ### About
 
 1. **What is:** this is a simple parser that converts MIPS code into machine code using the ISA provided in the Duke ECE350 handout.
-2. You need Java 10 to run this project. Find it here: https://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html
+2. You need Java 10 to run this project. Find it here: https://www.oracle.com/technetwork/java/javase/archive-139210.html
 3. **How to:**   
 (1) Clone or download the repo  
 (2) Write your mips code in any `.s` or `.asm` file   
